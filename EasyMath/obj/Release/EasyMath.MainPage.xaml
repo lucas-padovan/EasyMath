@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="EasyMath.MainPage" Title="EasyMath">
+	<ContentPage.Content>
+		<ScrollView>
+			<StackLayout Spacing="3" Padding="4">
+				
+				<Button FontAttributes="Bold" HeightRequest="71" WidthRequest="200" x:Name="Equacao2Button" Text="Equação de Segundo grau" BorderRadius="7" TextColor="Black" BackgroundColor="#dddddd"/>
+
+				<Button FontAttributes="Bold" HeightRequest="71" WidthRequest="200" x:Name="SimplificarFracao" Text="Somar/Subtrair Frações" BorderRadius="7" TextColor="Black" BackgroundColor="#dddddd" />
+
+				<Button FontAttributes="Bold" HeightRequest="71" WidthRequest="200" x:Name="VerificadorPrimoButton" Text="Verificador de Número Primo" BorderRadius="7" TextColor="Black" BackgroundColor="#dddddd"/>
+
+				<Button FontAttributes="Bold" HeightRequest="71" WidthRequest="200" x:Name="Mol" Text="Cálculo Químico Usando mol" BorderRadius="7" TextColor="Black" BackgroundColor="#dddddd"/>
+
+				<Button FontAttributes="Bold" HeightRequest="71" WidthRequest="200" x:Name="Fatorador" Text="Fatorador" BorderRadius="7" TextColor="Black" BackgroundColor="#dddddd"/>
+
+				<Button FontAttributes="Bold" HeightRequest="71" WidthRequest="200" x:Name="JurosSimples" Text="Juros Simples" BorderRadius="7" TextColor="Black" BackgroundColor="#dddddd" />
+
+				<Button FontAttributes="Bold" HeightRequest="71" WidthRequest="70" x:Name="JuroComposto" Text="Juros Composto" BorderRadius="7" TextColor="Black" BackgroundColor="#dddddd"/>
+
+				<Button FontAttributes="Bold" HeightRequest="71" WidthRequest="200" x:Name="TeoremaPita" Text="Teorema de Pitágoras" BorderRadius="7" TextColor="Black" BackgroundColor="#dddddd"/>
+				
+				<Button FontAttributes="Bold" HeightRequest="71" WidthRequest="200" x:Name="AnguloInternoPR" Text="Ângulo Interno de Polígono Regular" BorderRadius="7" TextColor="Black" BackgroundColor="#dddddd" />
+
+				<Button FontAttributes="Bold" HeightRequest="71" WidthRequest="200" x:Name="AnguloExternoPR" Text="Ângulo Externo de Polígono Regular" BorderRadius="7" TextColor="Black" BackgroundColor="#dddddd" />
+
+			</StackLayout>
+		</ScrollView>
+	</ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="EasyMath.CalculoMol">
+	<ContentPage.Content>
+		<ScrollView>
+		<StackLayout Padding="25">
+			<StackLayout Orientation="Horizontal">
+				<Label Text="Número de moléculas em mol"/>
+				<Switch x:Name="molSwitch"  />
+			</StackLayout>
+			<Entry Placeholder="Massa molar (M) em g/mol" x:Name="MBox" Keyboard="Text"/>
+			<Entry Placeholder="Massa da substância (m)" x:Name="MassaBox" Keyboard="Text"/>
+			<Entry Placeholder="Número de moléculas (n ou N)" x:Name="NBox" Keyboard="Text"/>
+			<Button Text="Calcular" Clicked="Calcular" />
+			<Label Text="Instruções de Uso:" />
+			<Label Text="1. Preencha apenas duas caixas normalmente e coloque x (minúsculo) na outra." />
+			<Label Text="2. Para colocar valores em notação científica, use o formato Ax10^Y, sendo A um número racional, Y o expoente, x o sinal de multiplicação e ^ o sinal de exponenciação. Não pode haver espaços entre os números e sinais. Exemplo: 2x10^2, igual a 200." />
+			<Label Text="3. Os valores da massa molar, da massa da substância e do número de moléculas podem ser colocados em notação científica ou não."/>
+		</StackLayout>
+		</ScrollView>
+	</ContentPage.Content>
+</ContentPage>

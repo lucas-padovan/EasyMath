@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="EasyMath.JurosComposto">
+	<ContentPage.Content>
+		<StackLayout Padding="25">
+			<Entry Placeholder="Valor" x:Name="Valor5Holder" Keyboard="Numeric"/>
+			<Entry Placeholder="Taxa" x:Name="Taxa5Holder" Keyboard="Numeric"/>
+			<Entry Placeholder="Número de vezes em que o juro aumenta" x:Name="N5Holder" Keyboard="Numeric"/>
+
+			<Button Text="Calcular" Clicked="CalculaJurosComposto3"/>
+		</StackLayout>
+	</ContentPage.Content>
+</ContentPage>

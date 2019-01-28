@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="EasyMath.TeoremaPitagoras">
+	<ContentPage.Content>
+		<StackLayout Padding="25">
+			<Entry Placeholder="cateto 1" x:Name="Cateto1Holder" Keyboard="Numeric"/>
+			<Entry Placeholder="cateto 2" x:Name="Cateto2Holder" Keyboard="Numeric"/>
+			<Entry Placeholder="hipotenusa" x:Name="HipotenusaHolder" Keyboard="Numeric"/>
+			<Button Text="Calcular" Clicked="Descobrir" />
+			<StackLayout Padding="25" >
+				<Label Text="Preencha apenas duas caixas e deixe a outra vazia" />
+			</StackLayout>
+		</StackLayout>
+	</ContentPage.Content>
+</ContentPage>

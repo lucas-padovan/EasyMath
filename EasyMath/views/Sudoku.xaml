@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="EasyMath.Sudoku">
+    <ScrollView>
+    
+        <StackLayout Orientation="Vertical" Padding="25" >
+            
+            <Label x:Name="labeln" Text="9"/>
+        </StackLayout>
+        <StackLayout Orientation="Vertical" Padding="25" >
+        
+            <StackLayout Orientation="Horizontal"  HorizontalOptions="FillAndExpand"> 
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c11" BackgroundColor="#d9d9d9" HorizontalOptions="FillAndExpand" />
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c12" BackgroundColor="#d9d9d9" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c13" BackgroundColor="#d9d9d9" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c14" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c15" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c16" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c17" BackgroundColor="#d9d9d9" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c18" BackgroundColor="#d9d9d9" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c19" BackgroundColor="#d9d9d9" HorizontalOptions="FillAndExpand"/>
+                
+            </StackLayout>
+            
+            <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand"> 
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c21" BackgroundColor="#d9d9d9" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c22" BackgroundColor="#d9d9d9" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c23" BackgroundColor="#d9d9d9" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c24" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c25" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c26" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c27" BackgroundColor="#d9d9d9" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c28" BackgroundColor="#d9d9d9" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c29" BackgroundColor="#d9d9d9" HorizontalOptions="FillAndExpand"/>
+                
+            </StackLayout>
+            
+            <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand"> 
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c31" BackgroundColor="#d9d9d9" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c32" BackgroundColor="#d9d9d9" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c33" BackgroundColor="#d9d9d9" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c34" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c35" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c36" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c37" BackgroundColor="#d9d9d9" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c38" BackgroundColor="#d9d9d9" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c39" BackgroundColor="#d9d9d9" HorizontalOptions="FillAndExpand"/>
+                
+            </StackLayout>
+            
+            <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand"> 
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c41" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c42" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c43" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c44" BackgroundColor="#d9d9d9" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c45" BackgroundColor="#d9d9d9" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c46" BackgroundColor="#d9d9d9" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c47" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c48" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c49" HorizontalOptions="FillAndExpand"/>
+                
+            </StackLayout>
+        
+            <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand"> 
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c51" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c52" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c53" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c54" BackgroundColor="#d9d9d9" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c55" BackgroundColor="#d9d9d9" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c56" BackgroundColor="#d9d9d9" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c57" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c58" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c59" HorizontalOptions="FillAndExpand"/>
+                
+            </StackLayout>
+            
+            <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand"> 
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c61" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c62" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c63" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c64" BackgroundColor="#d9d9d9" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c65" BackgroundColor="#d9d9d9" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c66" BackgroundColor="#d9d9d9" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c67" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c68" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c69" HorizontalOptions="FillAndExpand"/>
+                
+            </StackLayout>
+            
+            <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand"> 
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c71" BackgroundColor="#d9d9d9" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c72" BackgroundColor="#d9d9d9" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c73" BackgroundColor="#d9d9d9" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c74" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c75" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c76" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c77" BackgroundColor="#d9d9d9" HorizontalOptions="FillAndExpand" />
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c78" BackgroundColor="#d9d9d9" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c79" BackgroundColor="#d9d9d9" HorizontalOptions="FillAndExpand"/>
+                
+            </StackLayout>
+        
+            <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand"> 
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c81" BackgroundColor="#d9d9d9" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c82" BackgroundColor="#d9d9d9" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c83" BackgroundColor="#d9d9d9" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c84" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c85" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c86" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c87" BackgroundColor="#d9d9d9" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c88" BackgroundColor="#d9d9d9" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c89" BackgroundColor="#d9d9d9" HorizontalOptions="FillAndExpand"/>
+                
+            </StackLayout>
+        
+            <StackLayout Orientation="Horizontal"> 
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c91" BackgroundColor="#d9d9d9" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c92" BackgroundColor="#d9d9d9" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c93" BackgroundColor="#d9d9d9" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c94" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c95" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c96" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c97" BackgroundColor="#d9d9d9" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c98" BackgroundColor="#d9d9d9" HorizontalOptions="FillAndExpand"/>
+                <Entry Placeholder="0" Keyboard="Numeric" x:Name="c99" BackgroundColor="#d9d9d9" HorizontalOptions="FillAndExpand"/>
+                
+            </StackLayout>
+        
+        <StackLayout Padding="25">
+        
+            <Button Text="Resolver" Clicked="SolveSudoku"/>
+         </StackLayout>
+        
+        <StackLayout Padding="25" >
+        
+            <Button Text="Limpar" Clicked="Limpatudo"  TextColor="#d10c0c" />
+                <Label Text="SEMPRE limpe o jogo após clicar no botão Resolver" />
+         </StackLayout>
+        
+           
+        </StackLayout>
+        
+        
+        </ScrollView>
+        
+        
+    
+</ContentPage>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="EasyMath.Fatorador">
+	<ContentPage.Content>
+		<StackLayout Padding="25">
+			<Entry Placeholder="Número que será fatorado" x:Name="NumeroHolder" Keyboard="Numeric"/>
+			<Button Text="Fatorar" Clicked="Fatorar" />
+		</StackLayout>
+	</ContentPage.Content>
+</ContentPage>

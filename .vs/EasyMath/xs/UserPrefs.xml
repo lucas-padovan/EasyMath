@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{8D0FC3C6-B923-470B-9E2C-A36FB120CA2E}|Default">
+  <MonoDevelop.Ide.ItemProperties.EasyMath.Droid PreferredExecutionTarget="Android.Nexus_5X_API_28" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EasyMath/views/Sudoku.xaml.cs">
+    <Files>
+      <File FileName="EasyMath/views/Sudoku.xaml.cs" Line="47" Column="23" />
+      <File FileName="EasyMath/views/Sudoku.xaml" Line="147" Column="15" />
+      <File FileName="iOS/Main.cs" Line="18" Column="1" />
+      <File FileName="EasyMath/views/SimplificarFracao.xaml.cs" Line="13" Column="4" />
+      <File FileName="EasyMath/views/SimplificarFracao.xaml" Line="30" Column="15" />
+      <File FileName="Droid/Assets/AboutAssets.txt" Line="1" Column="1" />
+      <File FileName="EasyMath/MainPage.xaml" Line="33" Column="15" />
+      <File FileName="iOS/Info.plist" />
+      <File FileName="Droid/Properties/AndroidManifest.xml" Line="5" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.EasyMath.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B9DCCB6F-E34D-4511-9847-65C23E2516FA" automaticSigning="False" />
+  <MultiItemStartupConfigurations />
+</Properties>

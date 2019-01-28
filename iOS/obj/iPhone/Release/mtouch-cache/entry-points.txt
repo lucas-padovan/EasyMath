@@ -1,0 +1,28 @@
+Function=xamarin_timezone_get_data
+	/Users/LucasPadovan/Projects/EasyMath/iOS/obj/iPhone/Release/mtouch-cache/32/1-Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/LucasPadovan/Projects/EasyMath/iOS/obj/iPhone/Release/mtouch-cache/32/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Users/LucasPadovan/Projects/EasyMath/iOS/obj/iPhone/Release/mtouch-cache/32/1-Link/mscorlib.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/LucasPadovan/Projects/EasyMath/iOS/obj/iPhone/Release/mtouch-cache/32/1-Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/LucasPadovan/Projects/EasyMath/iOS/obj/iPhone/Release/mtouch-cache/32/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Users/LucasPadovan/Projects/EasyMath/iOS/obj/iPhone/Release/mtouch-cache/32/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/LucasPadovan/Projects/EasyMath/iOS/obj/iPhone/Release/mtouch-cache/32/1-Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/LucasPadovan/Projects/EasyMath/iOS/obj/iPhone/Release/mtouch-cache/32/1-Link/Xamarin.iOS.dll
+Function=xamarin_start_wwan
+	/Users/LucasPadovan/Projects/EasyMath/iOS/obj/iPhone/Release/mtouch-cache/32/1-Link/System.dll
+Function=CreateZStream
+	/Users/LucasPadovan/Projects/EasyMath/iOS/obj/iPhone/Release/mtouch-cache/32/1-Link/System.dll
+Function=CloseZStream
+	/Users/LucasPadovan/Projects/EasyMath/iOS/obj/iPhone/Release/mtouch-cache/32/1-Link/System.dll
+Function=Flush
+	/Users/LucasPadovan/Projects/EasyMath/iOS/obj/iPhone/Release/mtouch-cache/32/1-Link/System.dll
+Function=ReadZStream
+	/Users/LucasPadovan/Projects/EasyMath/iOS/obj/iPhone/Release/mtouch-cache/32/1-Link/System.dll
+Function=WriteZStream
+	/Users/LucasPadovan/Projects/EasyMath/iOS/obj/iPhone/Release/mtouch-cache/32/1-Link/System.dll

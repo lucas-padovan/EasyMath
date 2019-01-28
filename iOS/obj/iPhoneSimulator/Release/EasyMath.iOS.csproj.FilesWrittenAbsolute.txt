@@ -1,0 +1,15 @@
+/Users/LucasPadovan/Projects/EasyMath/iOS/obj/iPhoneSimulator/Release/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/LucasPadovan/Projects/EasyMath/iOS/obj/iPhoneSimulator/Release/ibtool/_BundleResourceWithLogicalName.items
+/Users/LucasPadovan/Projects/EasyMath/iOS/obj/iPhoneSimulator/Release/actool/_PartialAppManifest.items
+/Users/LucasPadovan/Projects/EasyMath/iOS/obj/iPhoneSimulator/Release/actool/_BundleResourceWithLogicalName.items
+/Users/LucasPadovan/Projects/EasyMath/iOS/obj/iPhoneSimulator/Release/optimized/EM2.png
+/Users/LucasPadovan/Projects/EasyMath/iOS/obj/iPhoneSimulator/Release/optimized/
+/Users/LucasPadovan/Projects/EasyMath/iOS/bin/iPhoneSimulator/Release/EasyMath.iOS.exe.mdb
+/Users/LucasPadovan/Projects/EasyMath/iOS/bin/iPhoneSimulator/Release/EasyMath.iOS.exe
+/Users/LucasPadovan/Projects/EasyMath/iOS/obj/iPhoneSimulator/Release/EasyMath.iOS.exe
+/Users/LucasPadovan/Projects/EasyMath/iOS/obj/iPhoneSimulator/Release/EasyMath.iOS.exe.mdb
+/Users/LucasPadovan/Projects/EasyMath/iOS/bin/iPhoneSimulator/Release/Xamarin.Forms.Core.dll
+/Users/LucasPadovan/Projects/EasyMath/iOS/bin/iPhoneSimulator/Release/Xamarin.Forms.Platform.dll
+/Users/LucasPadovan/Projects/EasyMath/iOS/bin/iPhoneSimulator/Release/Xamarin.Forms.Platform.iOS.dll
+/Users/LucasPadovan/Projects/EasyMath/iOS/bin/iPhoneSimulator/Release/Xamarin.Forms.Xaml.dll
+/Users/LucasPadovan/Projects/EasyMath/iOS/bin/iPhoneSimulator/Release/EasyMath.dll

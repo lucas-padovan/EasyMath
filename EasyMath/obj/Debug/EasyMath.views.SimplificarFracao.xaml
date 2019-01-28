@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="EasyMath.SimplificarFracao">
+	<ContentPage.Content>
+		<StackLayout Padding="25">
+		<StackLayout Orientation="Horizontal">
+			<Label Text="Somar"/>
+			<Switch x:Name="somaSwitch"  />
+		</StackLayout>
+		<StackLayout Orientation="Horizontal">
+			<Label Text="Subtrair" />
+			<Switch x:Name="subSwitch"  />
+		</StackLayout>
+
+			<Entry x:Name="n1Box" Placeholder="Numerador da primeira fração" Keyboard="Numeric"/>
+
+
+			<Entry x:Name="d1Box" Placeholder="Denominador da primeira fração" Keyboard="Numeric"/>
+
+
+			<Entry x:Name="n2Box" Placeholder="Numerador da segunda fração" Keyboard="Numeric"/>
+
+
+			<Entry x:Name="d2Box" Placeholder="Denominador da segunda fração" Keyboard="Numeric"/>
+
+
+			<Button Text="Calcular" Clicked="CalculaResultado"/>
+
+		</StackLayout>
+	</ContentPage.Content>
+</ContentPage>
